@@ -1,0 +1,11 @@
+D:\treXis\development\House OS\House OS\Control Panel\bin\Debug\Control Panel.exe.config
+D:\treXis\development\House OS\House OS\Control Panel\bin\Debug\Control Panel.exe
+D:\treXis\development\House OS\House OS\Control Panel\bin\Debug\Control Panel.pdb
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Control Panel.csprojResolveAssemblyReference.cache
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Trexis.House.Properties.Resources.resources
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Control Panel.csproj.GenerateResource.Cache
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Control Panel.exe
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Control Panel.pdb
+D:\treXis\development\House OS\House OS\Control Panel\obj\Debug\Trexis.House.formControlPanel.resources
+D:\treXis\development\House OS\House OS\Control Panel\bin\Debug\Trexis.House.dll
+D:\treXis\development\House OS\House OS\Control Panel\bin\Debug\Trexis.House.pdb

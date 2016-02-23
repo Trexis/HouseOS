@@ -1,0 +1,5 @@
+D:\treXis\development\House OS\House OS\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\treXis\development\House OS\House OS\House\bin\Debug\Trexis.House.dll
+D:\treXis\development\House OS\House OS\House\bin\Debug\Trexis.House.pdb
+D:\treXis\development\House OS\House OS\House\obj\Debug\Trexis.House.dll
+D:\treXis\development\House OS\House OS\House\obj\Debug\Trexis.House.pdb
